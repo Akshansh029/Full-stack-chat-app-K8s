@@ -8,22 +8,17 @@
 
 ## Table of Contents
 
-1. [Project Overview](#-project-overview)
-2. [Architecture Overview](#️-application-architecture)
-3. [Technology Stack](#-technologies-used)
-4. [Implementation Journey](#-implementation-journey)
-5. [Project Results](#-project-achievements)
-6. [Screenshots](#️-screenshots)
-7. [Project Structure](#-project-structure)
-8. [Troubleshooting Guide](#-troubleshooting-guide)
-9. [Future Enhancements](#-future-enhancements)
-10. [Learning Outcomes](#-learning-outcomes)
-11. [Technology Deep Dive](#️-technology-stack-deep-dive)
-12. [Contact](#-contact)
+1. [Project Overview](#project-overview)
+2. [Architecture Overview](#️application-architecture)
+3. [Implementation Journey](#implementation-journey)
+4. [Project Results](#project-achievements)
+5. [Troubleshooting Guide](#troubleshooting-guide)
+6. [Future Enhancements](#future-enhancements)
+7. [Learning Outcomes](#learning-outcomes)
 
 ## Project Overview
 
-![Chat-App](../Chat-app.png)
+![Chat-App](Chat-app.png)
 
 This project demonstrates a complete three-tier full-stack chat application deployed on Kubernetes using Minikube. The application showcases modern DevOps practices including containerization, orchestration, persistent storage, and ingress configuration for a production-ready deployment architecture.
 
@@ -44,7 +39,7 @@ The chat application follows a modern three-tier architecture:
 - **Backend Tier**: Node.js REST API server with Socket.io for real-time communication
 - **Database Tier**: MongoDB for persistent data storage
 
-![Chat app architecture](../Chat-app-arch.png)
+![Chat app architecture](Chat-app-arch.png)
 
 ### Architecture Components
 
@@ -340,3 +335,4 @@ Through this project, I gained comprehensive experience with:
 
 - Original project template from [LondheShubham153](https://github.com/LondheShubham153/full-stack_chatApp)
 - Kubernetes community for comprehensive documentation
+
